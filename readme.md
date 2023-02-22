@@ -2,7 +2,7 @@
 
 This is a simple Node.js bot that uses Twitter's Streaming API to listen for tweets from a specific account and open them in a browser window.
 
-I developed this project to receive instant updates on Elon Musk's tweets in order to make informed investment decisions in the crypto market, as Elon Musk was significantly impacting the market with his tweets in 2021.
+I developed this tool to receive instant updates on Elon Musk's tweets in order to make informed investment decisions in the crypto market, as Elon Musk was significantly impacting the market with his tweets in 2021.
 
 ## Prerequisites
 
